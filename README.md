@@ -4,7 +4,7 @@ I'm a passionate self-taught developer and storyteller with a knack for creating
 
 
 
-<p>
+<p style= "text-align: center ">
   <img src="https://i.imgur.com/zT5lw30.gif" width="45%" >
   <img src="https://i.imgur.com/sLzJJwU.gif" width="45%" style="transform: scaleX(-1); -webkit-transform: scaleX(-1);" />
 </p>
