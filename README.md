@@ -1,4 +1,4 @@
-  <img src="https://i.imgur.com/TeVa2MD.gif" width="45%" > Hi, I'm Ritul
+  <img src="https://i.imgur.com/TeVa2MD.gif" width="6%" > Hi, I'm Ritul
 
 
 I'm a passionate self-taught developer and storyteller with a knack for creating innovative solutions. My focus lies in building meaningful projects that blend creativity and technology. From crafting compelling narratives to coding applications, I'm always driven to explore, learn, and create.
