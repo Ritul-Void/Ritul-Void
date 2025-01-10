@@ -2,6 +2,7 @@
 
 I'm a passionate self-taught developer and storyteller with a knack for creating innovative solutions. My focus lies in building meaningful projects that blend creativity and technology. From crafting compelling narratives to coding applications, I'm always driven to explore, learn, and create.
 
+![This is an alt text.](https://i.imgur.com/zT5lw30.gif "This is a sample image.")
 
 ---
 
