@@ -2,10 +2,13 @@
 
 I'm a passionate self-taught developer and storyteller with a knack for creating innovative solutions. My focus lies in building meaningful projects that blend creativity and technology. From crafting compelling narratives to coding applications, I'm always driven to explore, learn, and create.
 
-<p align="center">
-  <img src="https://i.imgur.com/zT5lw30.gif" width="45%" style="margin-right: 10px;" />
+
+
+<p>
+  <img src="https://i.imgur.com/zT5lw30.gif" width="45%" >
   <img src="https://i.imgur.com/zT5lw30.gif" width="45%" style="transform: scaleX(-1);" />
 </p>
+
 
 ---
 
