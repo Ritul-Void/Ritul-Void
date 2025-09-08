@@ -5,10 +5,7 @@ I'm a passionate self-taught developer and storyteller with a knack for creating
 
 
 
-<p style= "text-align: center ">
-   <img src="https://i.imgur.com/bed5KBR.gif" width="100%" >
- 
-</p>
+[My DevBlog - Dlog.](https://dlogbyritul.pages.dev/)
 
 
 ---
