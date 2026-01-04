@@ -56,3 +56,5 @@ Email: [codebyritul@gmail.com]
 
 
 ---
+CERTIFICATIONS (I THOUGHT THEY ARE NOT USEFUL BUT STILL I FINAY DID THEM)- 
+https://www.freecodecamp.org/certification/ritulraj/responsive-web-design-v9
