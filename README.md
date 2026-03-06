@@ -1,59 +1,60 @@
-  <img src="https://i.imgur.com/TeVa2MD.gif" width="6%" > Hi, I'm Ritul
+<h1 align="center" style="font-size:2.6rem;">
+  RITUL RAJ
+</h1>
+<p align="center" style="font-size:1.2rem;">
+  <b>Front End Developer | Supabase Full stack Dev</b>
+</p>
 
-
-I'm a passionate self-taught developer and storyteller with a knack for creating innovative solutions. My focus lies in building meaningful projects that blend creativity and technology. From crafting compelling narratives to coding applications, I'm always driven to explore, learn, and create.
-
-
-
-[My DevBlog - Dlog.](https://dlogbyritul.pages.dev/)
-
-
----
-
-💡 What I'm Currently Exploring
-
-Web Development: Building user-friendly interfaces with modern frameworks like React and Rust-based backends.
-
-Cryptocurrency & Automation: Developing tools and bots using Python for smarter trading decisions.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,go,docker,supabase,github&theme=dark" alt="Skills: React, Node.js, Python, Go, Docker, Supabase, GitHub" height="48"/>
+</p>
 
 
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Ritul-Void?color=007acc&logo=github&style=flat-square" alt="GitHub stars"/>
 
-🛠️ Skills & Tools
+### Projects
 
- 💻 Technologies I know:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-
- 💻 Currently Learning:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
- 💻 Technologies I want to learn in future:
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
----
-
-
-🎯 Fun Facts
-
-I'm deeply fascinated by the intersection of technology and creativity.
-
-When I'm not coding, you'll find me working on stories or brainstorming game ideas.
-
-I believe in constant learning—every failure is a stepping stone toward success.
-
-
-
----
-
-🌐 Let's Connect
-
-Github: [https://github.com/Ritul-Void]
-
-portfolio - under construction
-
-Email: [codebyritul@gmail.com]
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Ritul-Void/OasisShare-p2pFileSharing"><b>OasisShare-p2pFileSharing</b></a><br>
+      <sub>P2P file sharing app with Chrome extension & Docker backend.</sub><br>
+      <img src="https://img.shields.io/badge/React-007acc?style=flat-square" alt="React"/>
+      <img src="https://img.shields.io/badge/Docker-007acc?style=flat-square" alt="Docker"/>
+      <img src="https://img.shields.io/badge/WebRTC-007acc?style=flat-square" alt="WebRTC"/>
+      <img src="https://img.shields.io/github/stars/Ritul-Void/OasisShare-p2pFileSharing?style=flat-square" alt="Stars"/>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Ritul-Void/Unheard-Social"><b>Unheard-Social</b></a><br>
+      <sub>Anonymous micro-social platform with privacy-first design.</sub><br>
+      <img src="https://img.shields.io/badge/React-007acc?style=flat-square" alt="React"/>
+      <img src="https://img.shields.io/badge/Supabase-007acc?style=flat-square" alt="Supabase"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-007acc?style=flat-square" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/github/stars/Ritul-Void/Unheard-Social?style=flat-square" alt="Stars"/>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Ritul-Void/KnowlegeFox-InBrowserRag"><b>KnowlegeFox-InBrowserRag</b></a><br>
+      <sub>In-browser RAG/knowledge tool & Chrome extension.</sub><br>
+      <img src="https://img.shields.io/badge/JavaScript-007acc?style=flat-square" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Chrome%20Ext-007acc?style=flat-square" alt="Chrome Extension"/>
+      <img src="https://img.shields.io/github/stars/Ritul-Void/KnowlegeFox-InBrowserRag?style=flat-square" alt="Stars"/>
+    </td>
+  </tr>
+</table>
 
 
+
+<p align="center">
+  Open to Collabs &nbsp;|&nbsp; <a href="mailto:codebyritul@gmail.com">codebyritul@gmail.com</a> &nbsp;|&nbsp; 
+  <a href="https://dlogbyritul.pages.dev/">Portfolio</a> &nbsp;|&nbsp; 
+  <a href="https://www.linkedin.com/in/ritul-void/">LinkedIn</a>
+</p>
+<p align="center">
+  <a href="https://twitter.com/ritul_void"><img src="https://img.shields.io/badge/Twitter-007acc?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://dev.to/ritulvoid"><img src="https://img.shields.io/badge/DEV.to-007acc?style=flat-square&logo=devdotto&logoColor=white" alt="DEV.to"/></a>
+</p>
 
 ---
 CERTIFICATIONS (I THOUGHT THEY ARE NOT USEFUL BUT STILL I FINAY DID THEM)- 
