@@ -20,7 +20,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Ritul-Void/OasisShare-p2pFileSharing"><b>OasisShare-p2pFileSharing</b></a><br>
-      <sub>P2P file sharing app with Chrome extension & Docker backend.</sub><br>
+      <sub>P2P file sharing app with Chrome extension & Docker backend.</sub><br><br> 
       <img src="https://img.shields.io/badge/React-007acc?style=flat-square" alt="React"/>
       <img src="https://img.shields.io/badge/Docker-007acc?style=flat-square" alt="Docker"/>
       <img src="https://img.shields.io/badge/WebRTC-007acc?style=flat-square" alt="WebRTC"/>
@@ -28,7 +28,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Ritul-Void/Unheard-Social"><b>Unheard-Social</b></a><br>
-      <sub>Anonymous micro-social platform with privacy-first design.</sub><br>
+      <sub>Anonymous micro-social platform with privacy-first design.</sub><br><br> 
       <img src="https://img.shields.io/badge/React-007acc?style=flat-square" alt="React"/>
       <img src="https://img.shields.io/badge/Supabase-007acc?style=flat-square" alt="Supabase"/>
       <img src="https://img.shields.io/badge/PostgreSQL-007acc?style=flat-square" alt="PostgreSQL"/>
@@ -36,7 +36,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Ritul-Void/KnowlegeFox-InBrowserRag"><b>KnowlegeFox-InBrowserRag</b></a><br>
-      <sub>In-browser RAG/knowledge tool & Chrome extension.</sub><br>
+      <sub>In-browser RAG/knowledge tool & Chrome extension.</sub><br><br> 
       <img src="https://img.shields.io/badge/JavaScript-007acc?style=flat-square" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/Chrome%20Ext-007acc?style=flat-square" alt="Chrome Extension"/>
       <img src="https://img.shields.io/github/stars/Ritul-Void/KnowlegeFox-InBrowserRag?style=flat-square" alt="Stars"/>
